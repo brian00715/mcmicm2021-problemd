@@ -1,0 +1,407 @@
+,artist_names,id,active_start_years
+0,BÃ©la Fleck,151290,1970
+1,Spyro Gyra,156886,1970
+2,Miles Davis,423829,1940
+3,Cab Calloway,532957,1930
+4,Charlie Christian,805930,1930
+5,George Duke,536122,1960
+6,Dave Brubeck,958533,1940
+7,Terry Gibbs,28692,1940
+8,Alice Coltrane,6143,1960
+9,John Coltrane,175553,1940
+10,Dexter Gordon,208404,1940
+11,Bud Powell,640675,1940
+12,McCoy Tyner,868092,1960
+13,Larry Carlton,102399,1970
+14,Herbie Hancock,957296,1960
+15,Dizzy Gillespie,162677,1930
+16,Charlie Parker,211758,1930
+17,Stan Getz,742899,1940
+18,Max Roach,396372,1940
+19,Stan Levey,6563,1950
+20,Jaco Pastorius,113480,1960
+21,Slam Stewart,23290,1940
+22,Charles Mingus,9680,1940
+23,Erskine Hawkins,170690,1940
+24,Lennie Tristano,242966,1940
+25,Thelonious Monk,490416,1940
+26,Milt Hinton,494537,1930
+27,Buddy Collette,641450,1950
+28,Keith Jarrett,66570,1960
+29,Horace Silver,267354,1950
+30,Stan Kenton,743929,1930
+31,Mose Allison,927627,1950
+32,Kenny Burrell,68780,1950
+33,Stanley Jordan,11910,1980
+34,Gabor Szabo,184187,1960
+35,George Benson,201760,1960
+36,Wes Montgomery,248392,1940
+37,Yusef Lateef,596922,1940
+38,Tadd Dameron,16759,1940
+39,Stanley Turrentine,12644,1950
+40,Sonny Rollins,39656,1940
+41,Gene Ammons,160198,1940
+42,Don Byas,172350,1930
+43,Illinois Jacquet,770629,1940
+44,Jan Hammer,809357,1960
+45,Stanton Moore,13038,1990
+46,Idris Muhammad,90389,1960
+47,Marcus Miller,673114,1970
+48,Jimmy Smith,781172,1950
+49,Chico O'Farrill,111794,1940
+50,Paquito D'Rivera,14263,1970
+51,Lee Konitz,227776,1940
+52,Oliver Nelson,398615,1950
+53,Paul Gonsalves,16925,1940
+54,Ben Webster,793227,1930
+55,Quincy Jones,378624,1950
+56,Kenny Clarke,81796,1930
+57,Paul Motian,18137,1950
+58,Joe Lovano,119629,1970
+59,Roy Haynes,290464,1940
+60,Bill Evans,764702,1950
+61,Philly Joe Jones,845443,1940
+62,Paul Hardcastle,18513,1980
+63,"Lambert, Hendricks & Ross",106987,1950
+64,Elvin Jones,179379,1950
+65,Shelly Manne,19435,1940
+66,Don Lamond,188202,1940
+67,Albert Ayler,614339,1960
+68,Louis Jordan,287604,1930
+69,Booker Little,97529,1950
+70,Terence Blanchard,20971,1980
+71,Lee Morgan,226380,1960
+72,Woody Shaw,680003,1960
+73,Clifford Brown,789775,1950
+74,Freddie Hubbard,798326,1950
+75,Eric Dolphy,800100,1950
+76,Art Blakey,928942,1940
+77,Wynton Marsalis,961688,1980
+78,Chuck Mangione,21747,1960
+79,Chet Baker,94210,1950
+80,Maynard Ferguson,397042,1930
+81,Art Farmer,502199,1950
+82,Cannonball Adderley,548338,1950
+83,Herbie Mann,678408,1950
+84,Tribal Tech,22020,1980
+85,Jean-Luc Ponty,228299,1950
+86,Mahavishnu Orchestra,233862,1970
+87,Weather Report,243527,1970
+88,Return to Forever,463527,1970
+89,Steps Ahead,23147,1970
+90,Kirk Whalum,101795,1980
+91,Steve Cole,25965,1990
+92,David Sanborn,188432,1960
+93,"Grover Washington, Jr.",944206,1960
+94,StÃ©phane Grappelli,749504,1930
+95,Wayne Shorter,250435,1950
+96,Pharoah Sanders,330601,1960
+97,Lester Young,259529,1930
+98,Paul Quinichette,28015,1950
+99,The Modern Jazz Quartet,567325,1950
+100,Cal Tjader,643549,1940
+101,Johnny Mandel,202554,1950
+102,Oscar Peterson,489316,1940
+103,Shirley Horn,30925,1960
+104,Nat King Cole,317093,1930
+105,Erroll Garner,206967,1940
+106,Andrew Hill,34617,1950
+107,Barry Harris,786228,1950
+108,Roy Ayers,345168,1960
+109,Steve Kuhn,36645,1960
+110,Hank Jones,558339,1950
+111,George Shearing,642664,1930
+112,Cecil Taylor,988386,1950
+113,Sonny Clark,36934,1950
+114,Sonny Sharrock,36987,1960
+115,Ornette Coleman,484396,1950
+116,Sonny Stitt,44290,1940
+117,Fats Navarro,792175,1940
+118,Grant Green,738855,1950
+119,Branford Marsalis,45379,1980
+120,Jackie McLean,127949,1940
+121,Joe Henderson,139804,1950
+122,John McLaughlin,223701,1960
+123,Al Di Meola,600228,1970
+124,Billy Cobham,767741,1960
+125,Dick Hyman,211424,1940
+126,Soulive,46429,1990
+127,Jimmy McGriff,76658,1950
+128,The Crusaders,136075,1950
+129,"Medeski, Martin & Wood",406583,1990
+130,Joe Sample,804559,1960
+131,Thad Jones,133119,1950
+132,Gerry Mulligan,542549,1940
+133,Gil Evans,551815,1930
+134,J.J. Johnson,119111,1940
+135,Bob Brookmeyer,51233,1950
+136,Louis Prima,272567,1930
+137,The Headhunters,80443,1970
+138,Azymuth,55939,1970
+139,Bob Moses,57205,1980
+140,Rahsaan Roland Kirk,864257,1950
+141,Manu Dibango,674011,1960
+142,Hugh Masekela,830319,1950
+143,Ahmad Jamal,127369,1950
+144,Bob James,65882,1960
+145,Vince Guaraldi,201678,1950
+146,Les McCann,245760,1960
+147,Ramsey Lewis,334770,1950
+148,Wynton Kelly,684253,1950
+149,Gene Harris,802745,1950
+150,Paul Bley,745617,1950
+151,Barney Kessel,784527,1940
+152,Bola Sete,66800,1960
+153,Tal Farlow,790227,1940
+154,Jimmy Raney,74340,1950
+155,Johnny Smith,245992,1940
+156,Kenny G,68934,1970
+157,Jeff Lorber,190888,1970
+158,John Klemmer,192260,1960
+159,Lee Ritenour,228444,1960
+160,Narada Michael Walden,314050,1970
+161,Hank Crawford,666763,1950
+162,Tom Scott,934350,1960
+163,Paul Desmond,69348,1940
+164,Bill Evans,74005,1980
+165,Bill Frisell,74397,1970
+166,Jim Hall,286483,1950
+167,Gary Burton,738182,1960
+168,Pat Martino,792583,1960
+169,"Richard ""Groove"" Holmes",848952,1950
+170,Ray Brown,343940,1940
+171,Bobby Hutcherson,81231,1960
+172,Milt Jackson,489845,1940
+173,Roy Eldridge,346637,1930
+174,Duke Jordan,147245,1940
+175,Kenny Drew,81841,1950
+176,John Lewis,424292,1940
+177,Hampton Hawes,558596,1950
+178,Boney James,81849,1980
+179,Donald Byrd,149946,1950
+180,Ike Quebec,82037,1940
+181,Tuck & Patti,203711,1980
+182,Collin Walcott,89828,1970
+183,The Last Poets,90018,1960
+184,Archie Shepp,503279,1960
+185,Clark Terry,133832,1950
+186,Zoot Sims,228087,1940
+187,Kenny Dorham,768027,1940
+188,Booker Ervin,97426,1950
+189,Jay McShann,225389,1930
+190,Buck Clayton,634674,1930
+191,Charlie Ventura,101628,1940
+192,The Rippingtons,424117,1980
+193,Joe Pass,209773,1950
+194,Carl Perkins,102781,1950
+195,Christian McBride,103600,1990
+196,Charlie Haden,211483,1950
+197,Scott LaFaro,258090,1950
+198,Ron Carter,275832,1960
+199,Dave Holland,585092,1960
+200,Stanley Clarke,745316,1960
+201,Paul Chambers,747984,1950
+202,Hank Mobley,951384,1950
+203,Jack DeJohnette,104388,1960
+204,Tony Williams,791318,1960
+205,Sun Ra,924232,1940
+206,Chris Botti,105329,1990
+207,Fourplay,741525,1990
+208,Dave Koz,961133,1990
+209,Chick Corea,110541,1960
+210,Eric Darius,113721,2000
+211,Claus Ogerman,123345,1960
+212,Johnny Guarnieri,210757,1930
+213,The Delta Rhythm Boys,816895,1930
+214,Jack McDuff,118853,1950
+215,Gato Barbieri,191680,1950
+216,Jan Garbarek,809334,1960
+217,Billy Strayhorn,359199,1930
+218,Billy Taylor,768149,1940
+219,Benny Golson,135391,1950
+220,The Dirty Dozen Brass Band,128290,1970
+221,Preservation Hall Jazz Band,358532,1960
+222,John Abercrombie,214546,1970
+223,Jacky Terrasson,130686,1980
+224,Don Cherry,796166,1950
+225,Woody Herman,958076,1930
+226,Lalo Schifrin,781932,1950
+227,Lou Donaldson,808198,1950
+228,Gigi Gryce,661974,1940
+229,Raymond Scott,873886,1930
+230,Curtis Fuller,139566,1950
+231,Urbie Green,300013,1950
+232,Curtis Stigers,141774,1980
+233,Carl Allen,145489,1990
+234,Earl Klugh,151240,1970
+235,Charlie Byrd,204968,1940
+236,Herb Ellis,674310,1940
+237,Bill Evans Trio,781423,1940
+238,Wilbur Ware,255770,1950
+239,Gary Peacock,153503,1960
+240,"Eddie ""Cleanhead"" Vinson",137137,1940
+241,Michel Legrand,401066,1950
+242,Toots Thielemans,159791,1950
+243,Frank Foster,161637,1950
+244,Wardell Gray,235881,1940
+245,Bobby Hackett,77698,1930
+246,"Eddie ""Lockjaw"" Davis",166025,1940
+247,Charlie Barnet,166767,1930
+248,Eddie Harris,169124,1960
+249,Eddie Henderson,169948,1970
+250,Lyle Mays,171015,1980
+251,Annette Peacock,489207,1960
+252,Eliane Elias,171220,1970
+253,Marian McPartland,824866,1940
+254,Frank Morgan,173007,1950
+255,James Spaulding,174506,1960
+256,George Russell,646353,1940
+257,Ruth Cameron,176083,1990
+258,Joe Zawinul,176859,1960
+259,The Dave Brubeck Quartet,142767,1950
+260,Pat Metheny Group,178654,1970
+261,John Coltrane Quartet,216294,1960
+262,Miles Davis Quintet,424302,1950
+263,Thelonious Monk Quartet,491786,1950
+264,Pat Metheny,179698,1970
+265,Donald Harrison,184406,1990
+266,Bud Shank,636382,1940
+267,Phil Woods,848572,1940
+268,John Taylor,189831,1960
+269,Frank Butler,189848,1950
+270,Dave Grusin,684920,1960
+271,Art Pepper,505047,1940
+272,Chico Hamilton,776301,1940
+273,Warne Marsh,193802,1940
+274,The Flying Luttenbachers,196254,1990
+275,"Johnny ""Hammond"" Smith",200322,1950
+276,Red Garland,882950,1950
+277,Charles Earland,204850,1960
+278,Charles Lloyd,206538,1960
+279,Percy Heath,256575,1950
+280,Diana Krall,255210,1980
+281,Johnny Griffin,213510,1940
+282,Jonathan Butler,218709,1980
+283,John Handy,221660,1950
+284,Lizz Wright,225607,2000
+285,Blue Mitchell,761064,1950
+286,Big John Patton,226908,1950
+287,Lonnie Liston Smith,228058,1960
+288,Al Cohn,504169,1940
+289,Artie Shaw,511029,1930
+290,Svend Asmussen,65094,1940
+291,Howard Roberts,828507,1950
+292,Hubert Laws,234374,1960
+293,Wayman Tisdale,242949,1990
+294,Najee,855780,1980
+295,Les Brown,511773,1930
+296,Harry James,950571,1930
+297,Bobby Timmons,765435,1950
+298,Lenny White,246487,1970
+299,Junior Mance,252026,1940
+300,Pepper Adams,255377,1950
+301,Jonah Jones,261332,1930
+302,Bunny Berigan,639789,1930
+303,Dr. Lonnie Smith,273105,1960
+304,Howard McGhee,276917,1930
+305,Marion Meadows,281953,1980
+306,Mulgrew Miller,608135,1980
+307,Robert Glasper,288985,2000
+308,Sam Rivers,290775,1940
+309,Paul Weston,29609,1930
+310,Pete Johnson,315909,1930
+311,Charlie Watts,773407,1960
+312,Harold Land,665944,1960
+313,James Moody,786080,1940
+314,Ronnie Foster,332536,1970
+315,Nicholas Payton,335431,1990
+316,Pieces of a Dream,338287,1970
+317,Roy Hargrove,345426,1980
+318,Jimmy Cobb,350892,1950
+319,Kai Winding,352164,1940
+320,Rick Braun,355052,1990
+321,Ruby Braff,357057,1940
+322,Jimmy McPartland,765773,1930
+323,Jimmy Giuffre,360956,1940
+324,Nat Adderley,377060,1950
+325,Norman Brown,388167,1990
+326,Esperanza Spalding,394325,2000
+327,Cat Anderson,199369,1940
+328,Randy Waldman,398909,1980
+329,Michael White,399249,1980
+330,Ray Anthony,405113,1940
+331,John Scofield,677991,1970
+332,The Lounge Lizards,757665,1980
+333,Ray Nance,408531,1930
+334,The RH Factor,411487,2000
+335,Mike Stern,413405,1980
+336,Mingus Big Band,418519,1990
+337,Red Mitchell,883345,1950
+338,Eddie Safranski,145543,1940
+339,Miroslav Vitous,499683,1970
+340,Al Hirt,507975,1950
+341,Alex Bugnon,515790,1980
+342,Tommy Flanagan,519715,1940
+343,Brian Culbertson,521564,1990
+344,Gerald Albright,647670,1980
+345,The Brecker Brothers,521674,1970
+346,Serge Chaloff,1163,1930
+347,Melody Gardot,546205,2000
+348,Fred Anderson,559501,1970
+349,Monica Zetterlund,589209,1990
+350,Monty Alexander,589256,1950
+351,"Bernard ""Pretty"" Purdie",47401,1950
+352,Brian Blade,623443,1990
+353,James Mason,1913210,1970
+354,Buddy Tate,631071,1930
+355,Hot Lips Page,825032,1930
+356,David Benoit,635760,1970
+357,Buddy DeFranco,638918,1940
+358,Poncho Sanchez,852665,1960
+359,Gary McFarland,662149,1960
+360,Mal Waldron,665824,1950
+361,"Harry ""Sweets"" Edison",670641,1930
+362,Marcus Roberts,673082,1980
+363,Chuck Rainey,107247,1960
+364,Acker Bilk,926115,1950
+365,Tex Beneke,30664,1940
+366,Yellowjackets,684612,1980
+367,Gary Bartz,737969,1970
+368,Slide Hampton,748827,1950
+369,Steve Lacy,753004,1950
+370,Bob Berg,759694,1970
+371,Bill Charlap,763670,1990
+372,Bobby Watson,765494,1970
+373,Kenny Garrett,767404,1980
+374,Pete Brown,720786,1930
+375,Ronnie Laws,331473,1970
+376,Kim Waters,773063,1980
+377,The Jazz Crusaders,86750,1960
+378,Alec Wilder,568622,1940
+379,Billy May,769388,1930
+380,James Morrison,785500,1970
+381,Bennie Maupin,790496,1970
+382,Eddie Gale,795271,1960
+383,Laurindo Almeida,761478,1950
+384,Toshiko Akiyoshi,797470,1950
+385,Ralph Burns,337015,1950
+386,Grady Tate,803162,1950
+387,Charlie Hunter,806601,1990
+388,Turtle Island String Quartet,807181,1980
+389,Russell Malone,808613,1990
+390,Jess Stacy,276592,1930
+391,Frankie Carle,138560,1930
+392,Horace Parlan,824879,1950
+393,Robben Ford,830063,1960
+394,Peter Erskine,842492,1970
+395,Mel Lewis,869708,1940
+396,Norman Connors,845196,1970
+397,Richard Elliot,852970,1980
+398,Michal Urbaniak,889276,1970
+399,Brad Mehldau,934305,1990
+400,N'Dea Davenport,935117,1990
+401,Toninho Horta,937242,1970
+402,Candy Dulfer,945711,1980
+403,Marc Johnson,955700,1990
+404,Hiroshima,958117,1970
+405,Matthew Halsall,1072783,2000

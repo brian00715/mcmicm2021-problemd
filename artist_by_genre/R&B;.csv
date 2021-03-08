@@ -1,0 +1,679 @@
+,artist_names,id,active_start_years
+0,Funkadelic,187581,1960
+1,Ohio Players,390390,1950
+2,TLC,7689,1990
+3,Total,2750,1990
+4,En Vogue,160690,1990
+5,Janet Jackson,208774,1970
+6,Mariah Carey,262255,1980
+7,R. Kelly,319347,1990
+8,Mary J. Blige,376204,1990
+9,Chaka Khan,802302,1960
+10,Whitney Houston,820434,1980
+11,Joe,101895,1990
+12,Tank,3426,2000
+13,Screamin' Jay Hawkins,309458,1950
+14,T-Connection,4553,1970
+15,Donna Summer,661524,1970
+16,Syreeta,1190,1960
+17,Alicia Keys,5307,1990
+18,Natalie Cole,74195,1950
+19,Isaac Hayes,101946,1960
+20,D'Angelo,134600,1990
+21,Faith Evans,164053,1990
+22,Dionne Warwick,165011,1960
+23,Erykah Badu,170770,1990
+24,Sade,279337,1980
+25,Roberta Flack,290072,1960
+26,Marvin Gaye,316834,1950
+27,Prince,361393,1970
+28,The Sweet Inspirations,568861,1950
+29,Brenda Russell,614823,1970
+30,Stevie Wonder,622805,1960
+31,Maxwell,866491,1990
+32,Aretha Franklin,927555,1950
+33,Allen Toussaint,933172,1950
+34,Stephanie Mills,21334,1960
+35,Alicia Myers,6568,1980
+36,Deniece Williams,816701,1970
+37,The Jones Girls,825168,1960
+38,Ray Charles,46861,1940
+39,Smokey Robinson,821571,1950
+40,The Five Satins,61479,1950
+41,The Delfonics,7448,1960
+42,The Five Keys,64145,1950
+43,The Impressions,82013,1950
+44,The Drifters,118544,1950
+45,Curtis Mayfield,144458,1950
+46,The Dells,147200,1950
+47,Gene Chandler,162820,1950
+48,Jerry Butler,329468,1950
+49,Brook Benton,524239,1950
+50,The Platters,894335,1950
+51,Pebbles,41420,1980
+52,Betty Wright,59819,1950
+53,Klymaxx,101953,1980
+54,Labelle,118289,1970
+55,The Supremes,477875,1950
+56,Minnie Riperton,500889,1960
+57,Atlantic Starr,509356,1970
+58,The Tams,569256,1950
+59,The Three Degrees,572106,1960
+60,Diana Ross,594665,1960
+61,Gloria Gaynor,664849,1970
+62,Sister Sledge,746666,1970
+63,New Edition,865016,1980
+64,The Pointer Sisters,894847,1970
+65,Chubby Checker,116984,1950
+66,The Rivingtons,502806,1960
+67,Tower of Power,13393,1960
+68,Sharon Jones & the Dap-Kings,8125,2000
+69,The Mar-Keys,59655,1960
+70,Ike & Tina Turner,94224,1960
+71,James Brown,128099,1950
+72,Barbara Lynn,149973,1960
+73,Carla Thomas,170454,1960
+74,Fontella Bass,179764,1960
+75,Otis Redding,414251,1960
+76,The Memphis Horns,477377,1960
+77,Candi Staton,542976,1960
+78,Gladys Knight & the Pips,667169,1950
+79,Steve Cropper,751738,1960
+80,Irma Thomas,772526,1960
+81,Lyn Collins,803242,1970
+82,Otis Clay,894531,1950
+83,Jody Watley,137084,1970
+84,Lisa Stansfield,302106,1980
+85,The Velvelettes,572499,1960
+86,Shalamar,790833,1970
+87,The Stylistics,567624,1960
+88,Bootsy Collins,107139,1970
+89,War,191947,1970
+90,Graham Central Station,798792,1970
+91,Chic,92942,1970
+92,Sam Cooke,238115,1950
+93,Teena Marie,18258,1970
+94,Tara Kemp,11210,1990
+95,All-4-One,12128,1990
+96,Bell Biv DeVoe,127063,1980
+97,Little Anthony & the Imperials,308871,1950
+98,The Tymes,478246,1950
+99,Guy,651156,1980
+100,The Chi-Lites,762731,1960
+101,Keith Sweat,767016,1980
+102,The Blues Brothers,47421,1970
+103,The J.B.'s,71970,1960
+104,Solomon Burke,31067,1950
+105,Wilson Pickett,677781,1950
+106,The Isley Brothers,766893,1950
+107,Booker T. Jones,772976,1960
+108,Lee Dorsey,814898,1960
+109,Tasmin Archer,14931,1990
+110,SisqÃ³,15158,1990
+111,Blackstreet,49774,1990
+112,Bobby Brown,61044,1980
+113,Boyz II Men,96379,1980
+114,Michael Jackson,467203,1960
+115,Bill Withers,78044,1960
+116,Aloe Blacc,15856,2000
+117,Amel Larrieux,16186,1990
+118,Anita Baker,572579,1970
+119,Tavares,16227,1960
+120,Gladys Knight,40225,1950
+121,Patti LaBelle,17748,1950
+122,Darlene Love,575012,1950
+123,Tina Turner,597309,1950
+124,Doris Troy,801573,1960
+125,Ruth Brown,806877,1940
+126,Lorraine Ellison,830375,1960
+127,Sly & the Family Stone,33161,1960
+128,Terence Trent D'Arby,17877,1980
+129,Billy Preston,590285,1950
+130,Al Green,607448,1960
+131,Commodores,766094,1960
+132,Cameo,944349,1970
+133,Patti Austin,17929,1950
+134,Tammi Terrell,164093,1960
+135,Roger,305501,1970
+136,Teddy Riley,18176,1980
+137,Kim Weston,103162,1960
+138,Rufus,302685,1960
+139,Mary Wells,384675,1960
+140,Linda Jones,834673,1960
+141,Brandy,608945,1990
+142,Amerie,19740,2000
+143,Sheila E.,19953,1970
+144,Teddy Pendergrass,20278,1970
+145,Jackie Wilson,108826,1950
+146,Clarence Carter,148477,1960
+147,Ben E. King,164594,1950
+148,Eddie Floyd,168958,1950
+149,Johnnie Taylor,198162,1950
+150,Lou Rawls,233228,1950
+151,O.V. Wright,457807,1960
+152,Percy Sledge,838195,1960
+153,Eddie Hazel,140816,1970
+154,Don Covay,2993710,1960
+155,Soul II Soul,35076,1980
+156,Grace Jones,161920,1970
+157,Slave,25778,1970
+158,Parliament,129775,1960
+159,Larry Levan,131624,1970
+160,Tom Moulton,617370,1960
+161,Donny Hathaway,182360,1960
+162,The Staple Singers,577235,1940
+163,Terry Callier,27916,1960
+164,Smokey Robinson & the Miracles,35021,1950
+165,Larry Williams,135024,1950
+166,Sam & Dave,282709,1960
+167,The Temptations,569685,1960
+168,Fats Domino,137494,1940
+169,The Marvelettes,376608,1960
+170,Joe Tex,210323,1960
+171,Tevin Campbell,30928,1980
+172,Babyface,61226,1970
+173,Al B. Sure!,607773,1980
+174,The O'Jays,892771,1960
+175,Roy Hamilton,290040,1940
+176,Johnny Ace,817000,1940
+177,KC & the Sunshine Band,299668,1970
+178,Destiny's Child,210991,1990
+179,Johnny Maestro,244711,1950
+180,The Moonglows,479582,1950
+181,The Cadillacs,636044,1950
+182,Bobby Womack,64509,1960
+183,Roy Brown,343396,1940
+184,Siedah Garrett,33995,1980
+185,The Crystals,138332,1950
+186,Little Eva,839369,1960
+187,Billy Paul,89710,1950
+188,Harold Melvin & the Blue Notes,665957,1950
+189,Ann Peebles,921002,1970
+190,The Flamingos,55304,1950
+191,The Belmonts,34867,1950
+192,The Clovers,75171,1940
+193,The Duprees,143367,1960
+194,The Skyliners,423095,1950
+195,Barry White,149044,1960
+196,Hot Chocolate,267814,1970
+197,Gil Scott-Heron,658346,1960
+198,Peabo Bryson,35338,1970
+199,Enchantment,160638,1970
+200,Mavis Staples,397876,1950
+201,LaVern Baker,778344,1940
+202,Peaches & Herb,35697,1960
+203,Silk,36327,1990
+204,Jodeci,135152,1990
+205,Full Force,799081,1980
+206,Montell Jordan,925066,1990
+207,P.P. Arnold,3056,1960
+208,Shirley Ellis,750925,1960
+209,Angie Stone,38805,1970
+210,Betty Davis,58438,1960
+211,Lamont Dozier,106882,1960
+212,Cissy Houston,110104,1960
+213,Lalah Hathaway,127696,1990
+214,Jamiroquai,176358,1990
+215,Ashford & Simpson,619423,1960
+216,Willie Mitchell,684830,1960
+217,Regina Belle,884962,1980
+218,The Undisputed Truth,920939,1960
+219,Frankie Lymon,139933,1950
+220,Solange,41462,2000
+221,Patrice Rushen,743968,1970
+222,The Chantels,68155,1950
+223,The Spinners,578141,1950
+224,Macy Gray,232869,1990
+225,The Shirelles,418981,1950
+226,Sweetback,45287,2000
+227,Shuggie Otis,752773,1960
+228,The Brand New Heavies,628684,1980
+229,Incognito,772721,1970
+230,Edwin Starr,46727,1950
+231,Barrett Strong,117001,1950
+232,William Bell,578744,1950
+233,Bill Doggett,763554,1940
+234,Syl Johnson,46784,1950
+235,Brenton Wood,617568,1960
+236,Joe Simon,805208,1950
+237,James Carr,107877,1960
+238,Blu Cantrell,48903,2000
+239,Toni Braxton,935330,1980
+240,Betty Harris,49180,1960
+241,The Blackbyrds,49367,1970
+242,Kool & the Gang,777210,1960
+243,The Manhattans,51736,1960
+244,Bloodstone,53606,1960
+245,The Fantastic Four,53916,1960
+246,Wynonie Harris,960674,1940
+247,The Chambers Brothers,57124,1950
+248,The Coasters,75825,1950
+249,Bilal,57280,1990
+250,Eddie Kendricks,170211,1950
+251,Betty Everett,58361,1950
+252,Percy Mayfield,309328,1940
+253,Little Willie John,269972,1950
+254,Bernie Worrell,59503,1970
+255,King Curtis,90803,1950
+256,B.T. Express,59949,1970
+257,The Jackson 5,83013,1960
+258,The Whispers,482787,1960
+259,The Brothers Johnson,624215,1960
+260,DeBarge,816517,1980
+261,Morris Day,930642,1980
+262,Freddie Jackson,180449,1980
+263,Luther Vandross,208076,1970
+264,Lionel Richie,243474,1970
+265,The Penguins,893719,1950
+266,Avant,62412,1990
+267,Brian McKnight,517074,1980
+268,Chuck Willis,126144,1950
+269,The Bobbettes,756518,1950
+270,B2K,68896,2000
+271,Kashif,361973,1980
+272,The Gap Band,73383,1960
+273,"Earth, Wind & Fire",135273,1960
+274,Archie Bell & the Drells,502398,1960
+275,Dave Bartholomew,577590,1940
+276,Lloyd Price,827250,1950
+277,Kelly Rowland,73682,1990
+278,Beverley Knight,761341,1990
+279,The Cleftones,73914,1950
+280,Bobby Day,74452,1950
+281,Jesse Belvin,333175,1950
+282,The Meters,402872,1960
+283,Johnny Nash,246628,1950
+284,Jermaine Jackson,324854,1960
+285,Keith Washington,81079,1990
+286,Kenny Lattimore,82149,1980
+287,The Intruders,82955,1960
+288,The Foundations,67900,1960
+289,India.Arie,84446,2000
+290,Dionne Farris,169228,1990
+291,Meshell Ndegeocello,402351,1990
+292,Kleeer,84886,1970
+293,Kelis,85397,1990
+294,Rick James,366164,1960
+295,Raphael Saadiq,402249,1980
+296,Millie Jackson,488859,1960
+297,Aaron Neville,582253,1960
+298,Deborah Cox,234647,1990
+299,Kem,87697,2000
+300,Hank Ballard,664194,1950
+301,Kelly Price,88035,1990
+302,Kindred the Family Soul,88587,2000
+303,Womack & Womack,680374,1980
+304,Billy Ocean,89058,1970
+305,The Five Stairsteps,760977,1960
+306,Sun,583935,1970
+307,Loleatta Holloway,829125,1960
+308,King Floyd,90169,1960
+309,Black Ivory,91763,1970
+310,Keyshia Cole,92107,2000
+311,Monica,490738,1990
+312,Aaliyah,578999,1990
+313,Xscape,681956,1990
+314,Harold Melvin,669473,1950
+315,Koffee Brown,93872,1990
+316,Tony! Toni! TonÃ©!,790667,1980
+317,Mint Condition,898188,1980
+318,Mickey & Sylvia,889449,1950
+319,ESG,167386,1970
+320,Con Funk Shun,97509,1960
+321,Charlie Wilson,100116,1960
+322,Levi Stubbs,256831,1950
+323,Willie Hutch,580485,1960
+324,Pharrell Williams,275757,1990
+325,Gregory Abbott,193025,1980
+326,Ralph Tresvant,330453,1980
+327,Chuck Jackson,103033,1960
+328,Chris Kenner,774956,1960
+329,Gloria Lynne,664883,1950
+330,Cody ChesnuTT,105462,2000
+331,Colby O'Donis,106145,1990
+332,Usher,303506,1990
+333,Rufus Thomas,303050,1930
+334,Lakeside,107249,1970
+335,Cherrelle,108124,1980
+336,"Evelyn ""Champagne"" King",788937,1970
+337,Melba Moore,869409,1970
+338,Chico DeBarge,110945,1980
+339,Christopher Williams,115544,1980
+340,Jeffrey Osborne,317108,1970
+341,Alexander O'Neal,625201,1980
+342,Sylvester,756291,1970
+343,George Clinton,533117,1950
+344,Zapp,596451,1970
+345,Harvey Fuqua,667556,1950
+346,Ledisi,117356,1990
+347,Karyn White,359559,1980
+348,Diana Ross & the Supremes,821590,1960
+349,Billy Ward & the Dominoes,80657,1950
+350,Basic Black,118665,1990
+351,Craig David,122219,1990
+352,L.T.D.,122795,1960
+353,ChristiÃ³n,123515,1990
+354,Jagged Edge,125506,1990
+355,Dru Hill,167361,1990
+356,Christina Milian,126168,1990
+357,Frederick Knight,190531,1970
+358,Randy Crawford,333573,1970
+359,Angela Bofill,755570,1970
+360,Angela Winbush,755792,1980
+361,Trey Songz,128143,2000
+362,"Clarence ""Frogman"" Henry",129591,1950
+363,Bohannon,767095,1970
+364,Crystal Waters,132856,1980
+365,Tamar Braxton,133177,1980
+366,SWV,498987,1990
+367,Missy Elliott,502371,1990
+368,The Cover Girls,137430,1980
+369,Dobie Gray,138335,1960
+370,The Dramatics,138407,1960
+371,Esther Phillips,271029,1940
+372,The Friends of Distinction,60476,1960
+373,Jimmy Castor,351842,1960
+374,The Deele,146796,1980
+375,James Ingram,147082,1970
+376,Howard Tate,280445,1960
+377,Earl King,151469,1950
+378,Grayson Hugh,153129,1980
+379,Maze,401114,1970
+380,Greg Phillinganes,157063,1970
+381,Dwele,159340,2000
+382,Color Me Badd,776371,1990
+383,Club Nouveau,152228,1980
+384,Odyssey,399437,1970
+385,Tweet,163213,1990
+386,Shannon,163977,1980
+387,ChantÃ© Moore,165345,1980
+388,Tamia,165117,1980
+389,Jon Secada,258882,1990
+390,Dr. Buzzard's Original Savannah Band,169088,1970
+391,Carl Thomas,169818,1990
+392,The Heartbeats,767129,1950
+393,MFSB,221894,1970
+394,First Choice,175538,1970
+395,Leon Ware,243812,1960
+396,Nile Rodgers,411830,1970
+397,Stacy Lattisaw,178750,1970
+398,Caron Wheeler,181817,1980
+399,Maceo Parker,185155,1960
+400,Floetry,188206,1990
+401,Cassie,193305,2000
+402,Dazz Band,195634,1970
+403,Dee Clark,197582,1950
+404,Changing Faces,198426,1990
+405,Charles & Eddie,202089,1990
+406,"Huey ""Piano"" Smith",830028,1950
+407,Des'ree,206668,1990
+408,Tyrone Davis,806507,1970
+409,The Contours,121157,1950
+410,Jamie Foxx,210830,1990
+411,Johnny Gill,253734,1980
+412,Jon B.,258741,1990
+413,Vanessa Williams,314505,1980
+414,The Silhouettes,502351,1950
+415,Danny & the Juniors,674163,1950
+416,Ciara,215513,2000
+417,K.P. & Envyi,1606776,1990
+418,Vivian Green,226420,2000
+419,Howard Huntsberry,228180,1980
+420,Lil' Mo,231397,1990
+421,Salaam Remi,241004,1980
+422,Robin Thicke,238686,1990
+423,Gerald Levert,649435,1980
+424,The Chordettes,763551,1940
+425,Sammie,244048,1990
+426,Les Nubians,246127,1990
+427,Lisa Lisa,247824,1980
+428,Jocelyn Brown,118128,1980
+429,Joi,251851,1990
+430,Leon Haywood,252509,1960
+431,Ashanti,933898,1990
+432,Howard Hewett,276381,1970
+433,Lucy Pearl,256528,1990
+434,Wild Cherry,256974,1970
+435,Rebirth Brass Band,380235,1980
+436,Justin Adams,257364,1950
+437,T-Pain,258000,2000
+438,Nate Dogg,373592,1990
+439,Ginuwine,662797,1990
+440,Chris Brown,266063,2000
+441,112,1055285,1990
+442,Jennifer Hudson,266129,2000
+443,Phyllis Hyman,333447,1970
+444,Marilyn McCoo,266503,1960
+445,Mario,274637,2000
+446,Rod Temperton,293897,1970
+447,Don Blackman,795841,1970
+448,Jesse Powell,283015,1990
+449,Rockwell,291235,1980
+450,The Soul Survivors,900349,1960
+451,Martha Wash,367417,1970
+452,K-Ci & JoJo,312126,1990
+453,Lumidee,320470,2000
+454,Secret Weapon,321126,1980
+455,Jermaine Stewart,322765,1980
+456,Rahsaan Patterson,328824,1990
+457,El DeBarge,793664,1970
+458,Rose Royce,343215,1970
+459,Men at Large,352575,1990
+460,Ruben Studdard,355998,2000
+461,Dave Hollister,688515,2000
+462,Larry Graham,130402,1960
+463,Michael Henderson,887718,1960
+464,Kano,365821,1980
+465,BeyoncÃ©,761179,1990
+466,Mass Production,377035,1970
+467,The Monotones,406898,1950
+468,The Wild Tchoupitoulas,574483,1970
+469,El Michels Affair,387097,2000
+470,Cymande,147294,1970
+471,Mandrill,674262,1960
+472,Next,391177,1990
+473,Ryan Leslie,394013,2000
+474,Maxine Brown,396154,1960
+475,Jessie Hill,850161,1960
+476,Ray J,405142,1990
+477,Meli'sa Morgan,407331,1980
+478,Ready for the World,408500,1980
+479,The Marcels,48622,1950
+480,Nivea,422891,2000
+481,Mista,423467,1990
+482,The Miracles,503668,1960
+483,Omarion,468938,2000
+484,Marsha Ambrosius,478173,1990
+485,Anita Ward,479204,1970
+486,MoKenStef,485689,1990
+487,Another Bad Creation,494746,1980
+488,The Salsoul Orchestra,495702,1970
+489,Adina Howard,497236,1990
+490,Miri Ben-Ari,503247,2000
+491,Thelma Houston,515600,1960
+492,Lenny Williams,818254,1970
+493,Chrisette Michele,532610,2000
+494,Jill Scott,845662,1990
+495,Labi Siffre,98819,1970
+496,The Time,919812,1980
+497,Jazmine Sullivan,546738,2000
+498,J. Holiday,551115,2000
+499,Maktub,559927,1990
+500,Stuff,567959,1970
+501,The Cookies,69520,1950
+502,Ocean,569064,1970
+503,David Ruffin,811598,1950
+504,Freda Payne,796710,1960
+505,A Taste of Honey,576072,1970
+506,Anthony Hamilton,581713,1990
+507,Yarbrough & Peoples,589802,1970
+508,After 7,599777,1980
+509,The Originals,890724,1960
+510,Todd Rhodes,603036,1940
+511,Arthur Conley,604924,1960
+512,Brainstorm,616979,1970
+513,Pretty Ricky,619536,2000
+514,Mya,621112,1990
+515,TonÃ©x,622277,1990
+516,Brick,622604,1970
+517,Amy Winehouse,627026,2000
+518,Heatwave,667622,1970
+519,Breakwater,630845,1970
+520,Rufus & Chaka Khan,299840,1970
+521,Danity Kane,633358,2000
+522,The Robins,424928,1950
+523,H-Town,651972,1990
+524,Gino Soccio,552576,1970
+525,The Budos Band,843259,2000
+526,Glenn Lewis,662545,1990
+527,Keri Hilson,664272,2000
+528,Vicki Sue Robinson,202344,1970
+529,The Jesters,769523,1950
+530,Verdine White,841950,1970
+531,Lloyd,673752,2000
+532,Day26,675351,2000
+533,Day26,303506,1990
+534,Hi-Five,676313,1990
+535,Lyfe Jennings,677241,2000
+536,Leroy Hutson,819946,1970
+537,ZhanÃ©,697391,1990
+538,Jordin Sparks,729857,2000
+539,Corinne Bailey Rae,733717,2000
+540,Alexander Robotnick,741692,1980
+541,Bettye Swann,50520,1960
+542,Allure,746707,1990
+543,Switch,48757,1970
+544,Troop,747200,1980
+545,LeVert,787940,1980
+546,Syleena Johnson,757093,2000
+547,Blaque,759187,1990
+548,Erma Franklin,200448,1950
+549,Steve Arrington,28619,1970
+550,Immature,771838,1990
+551,Cherish,775494,2000
+552,Jaheim,782163,1990
+553,Eric BenÃ©t,800475,1990
+554,Will Downing,960874,1980
+555,Leela James,784056,2000
+556,Cupid,784122,2000
+557,The Crests,785817,1950
+558,Shai,791308,1990
+559,Dyke & the Blazers,792190,1960
+560,E.U.,792348,1970
+561,Shanice,792839,1980
+562,Philip Bailey,340364,1970
+563,Fantasia,795053,2000
+564,Kandi,358055,1990
+565,Bobby Marchan,85445,1950
+566,Gregory Hines,802048,1980
+567,Luther Ingram,805493,1960
+568,Tyrese,807361,1990
+569,Uncle Sam,811178,1990
+570,Jean Knight,812040,1970
+571,John Legend,814387,2000
+572,Debra Laws,815837,1980
+573,The Sylvers,565521,1970
+574,Horace Brown,823762,1990
+575,Loose Ends,827760,1980
+576,Chuckii Booker,125569,1980
+577,Mark Morrison,833539,1990
+578,Lisa Fischer,835085,1980
+579,Michael Wycoff,841881,1970
+580,D.J. Rogers,663424,1960
+581,Ne-Yo,846634,2000
+582,Marques Houston,849405,1990
+583,Rotary Connection,852405,1960
+584,Raheem DeVaughn,863733,2000
+585,Janelle MonÃ¡e,868086,2000
+586,Nicole,869364,1980
+587,O'Bryan,888394,1970
+588,Midnight Star,891911,1970
+589,Alice Smith,907868,2000
+590,Gnarls Barkley,913130,2000
+591,Sunshine Anderson,925635,2000
+592,Monifah,926021,1990
+593,Brass Construction,932922,1970
+594,Akon,933458,2000
+595,Musiq Soulchild,935739,2000
+596,Cornelius Brothers & Sister Rose,778656,1970
+597,Heather Headley,936009,1990
+598,Tommy Edwards,936126,1940
+599,Wilbert Harrison,209517,1950
+600,Calvin Richardson,946940,1990
+601,DÃ¢m-Funk,985124,2000
+602,Mtume,508391,1970
+603,Donell Jones,987777,1990
+604,Sharon Jones,993494,1990
+605,Karina,997568,2000
+606,The-Dream,1028077,1990
+607,Stacy Barthe,1032216,2000
+608,Melanie Fiona,1038956,2000
+609,Kristinia DeBarge,1061368,2000
+610,Ideal,1273359,1990
+611,Slim,1409777,1990
+612,Jeremih,1545319,2000
+613,Jesse Boykins III,1591840,2000
+614,Daley,1619044,2000
+615,The Dap-Kings Horns,1971972,2000
+616,Teyana Taylor,1984584,2000
+617,Surface,39828,1980
+618,Kevin Lyttle,2034242,2000
+619,Sir Charles Jones,2059306,2000
+620,Verse Simmonds,2142078,2010
+621,Prince,1589051,2000
+622,Terrace Martin,2366358,2000
+623,Eric Bellinger,2373828,2010
+624,K. Michelle,2393563,2000
+625,Charles Bradley,2401289,2000
+626,Tink,2406958,2010
+627,Thundercat,2424073,1990
+628,The Boys,2444397,1980
+629,BJ the Chicago Kid,2517403,2000
+630,Mindless Behavior,2540309,2010
+631,Miguel,2570457,2000
+632,Frank Ocean,2592086,2010
+633,Kevin Garrett,2619843,2010
+634,Gallant,3413511,2010
+635,King,2660270,2010
+636,The Weeknd,2674162,2010
+637,JhenÃ© Aiko,2739175,2000
+638,Tory Lanez,2775792,2010
+639,Elle Varner,2795896,2010
+640,Allen Stone,2806733,2010
+641,Robert Glasper Experiment,2823663,2000
+642,The Internet,2825107,2010
+643,John Newman,2996996,2010
+644,Jonn Hart,3043787,2010
+645,Hiatus Kaiyote,3045620,2010
+646,Sevyn Streeter,3052733,2000
+647,August Alsina,3065088,2010
+648,TGT,3077599,2000
+649,LSG,115554,1990
+650,Adrian Marcel,3120458,2010
+651,Nick Hakim,3125793,2010
+652,Justine Skye,3178543,2010
+653,Daniel Caesar,3180014,2010
+654,Andra Day,3200736,2010
+655,Kehlani,3226468,2010
+656,TeeFLii,3227782,2010
+657,Tinashe,3236942,2010
+658,Bando Jonez,3239681,2010
+659,VEDO,3242655,2010
+660,Anthony Lewis,3268224,2010
+661,The Neptunes,3161008,1960
+662,Jordan Rakei,3319054,2010
+663,Natalie La Rose,3359519,2010
+664,Leon Bridges,3380137,2010
+665,Izzy Bizu,3406269,2010
+666,Rotimi,3410250,2010
+667,Bryson Tiller,3415304,2010
+668,Jamila Woods,3416601,2010
+669,Roy Woods,3416819,2010
+670,Steve Lacy,3420473,2010
+671,Ella Mai,3506278,2010
+672,Noname,3511314,2010
+673,24hrs,3535210,2010
+674,Ty Dolla $ign,2659130,2000
+675,Xavier OmÃ¤r,3559122,2010
+676,Brent Faiyaz,3606027,2010
+677,Trinidad Cardona,3670556,2010
